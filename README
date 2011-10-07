@@ -1,1 +1,5 @@
-Welcome, more info on Andes
+Welcome, to Andes. 
+
+Andes is an online shopping application which consists of different products from different suppliers.
+The database is managed by an admin team who have different levels of access to the database. 
+The database maintains details of each product by each supplier, its various features and the quantity.
